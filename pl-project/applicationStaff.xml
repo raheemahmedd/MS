@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><staff>
+  <user>
+     <id>1</id>
+     <username>NEW</username>   
+     <password>pass</password>
+     <type>admin</type>
+  </user>
+  <user>
+     <id>4</id>
+     <username>ahmed2</username>   
+     <password>1234</password>
+     <type>admin</type>
+  </user>
+   <user>
+     <id>5</id>
+     <username>Ayman</username>   
+     <password>1234</password>
+     <type>admin</type>
+  </user>
+   <user>
+     <id>7</id>
+     <username>Raheem</username>   
+     <password>1234</password>
+     <type>admin</type>
+  </user>
+  
+</staff>
